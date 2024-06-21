@@ -23,4 +23,4 @@ Users can add, mark, and delete tasks. The tasks are stored in the browser's loc
 To run the app, simply open the index.html file in your web browser.
 
 ## License
-This project is open-source and available under the MIT License.
+This project is open-source and available.
